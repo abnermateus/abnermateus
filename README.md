@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="90" width="50"> Hi! My name is Abner!
+# <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" height="50" width="90"> Hi! My name is Abner!
 ==========================
 
 Computer Network Technician and Programming Student
